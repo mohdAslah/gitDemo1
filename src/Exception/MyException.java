@@ -27,7 +27,11 @@ public class MyException {
 		
 		System.out.println("Please correct this, division not possible by Zero");
 
-		System.out.println("Please correct this, division not possible by Zero");
+		System.out.println(" 2 Please correct this, division not possible by Zero");
+		System.out.println(" 3 Please correct this, division not possible by Zero");
+
+		System.out.println(" 4 Please correct this, division not possible by Zero");
+
 
 
 	}	
