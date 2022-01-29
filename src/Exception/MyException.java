@@ -19,11 +19,14 @@ public class MyException {
 	} 
 	
 	
+	
 	catch (Exception e) {
 		
 		
 		System.out.println("Something wrong Please check: "+e.getMessage());
 		
+		System.out.println("Please correct this, division not possible by Zero");
+
 		System.out.println("Please correct this, division not possible by Zero");
 
 
