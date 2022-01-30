@@ -30,6 +30,7 @@ public class MyException3 {
 		System.out.println("Something wrong Please check: "+e.getMessage());
 		
 		System.out.println("Please correct this, division not possible by Zero");
+		System.out.println(" develop Please correct this, division not possible by Zero");
 
 
 	}	
